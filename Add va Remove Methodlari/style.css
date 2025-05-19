@@ -1,0 +1,17 @@
+.error{
+    padding: 10px;
+    color: crimson;
+    border: dotted 1px crimson;
+}
+
+.success{
+    padding: 10px;
+    color: limegreen;
+    border: dotted 1px limegreen;
+}
+
+.remove{
+    padding: 10px;
+    color: black;
+    border: dotted 1px black;
+}
