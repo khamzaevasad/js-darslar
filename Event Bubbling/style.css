@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+
+li{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: crimson;
+    color: white;
+    margin-bottom: 10px;
+    padding: 10px;
+    cursor: pointer;
+    max-width: 300px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 45px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    opacity: 0.9    ;
+}
